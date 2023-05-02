@@ -1,0 +1,29 @@
+{
+    "res": true,
+    "data": [
+        {
+            "cidcatalogo": "9945",
+            "ctipocatalogo": "3",
+            "cnombrecalle": "AV. COMERCIANTES",
+            "cnumeroexterior": "1300",
+            "cnumerointerior": "",
+            "ccolonia": "PARQUE INDUSTRIAL FIPASI CARR SILAO-IRAPUATO KM 5.3",
+            "ccodigopostal": "36100",
+            "cpqcom_relation": "IDD000763",
+            "id": 679,
+            "ciddireccion": "763"
+        },
+        {
+            "cidcatalogo": "9945",
+            "ctipocatalogo": "3",
+            "cnombrecalle": "AV. COMERCIANTES",
+            "cnumeroexterior": "1300",
+            "cnumerointerior": "",
+            "ccolonia": "PARQUE INDUSTRIAL FIPASI CARR SILAO-IRAPUATO KM 5.3",
+            "ccodigopostal": "36100",
+            "cpqcom_relation": "IDD000764",
+            "id": 680,
+            "ciddireccion": "764"
+        }
+    ]
+}

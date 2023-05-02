@@ -1,0 +1,9 @@
+export 'package:flutter/material.dart';
+export '../widgets/AppBar.dart';
+export '../widgets/bodyList.dart';
+export '../widgets/customcodition.dart';
+export '../widgets/dropdowncustom.dart';
+export '../widgets/movie_slider.dart';
+export '../widgets/encabezado.dart';
+export '../widgets/cardwhite.dart';
+export '../widgets/expansioncustom.dart';
